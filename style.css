@@ -1,6 +1,11 @@
 /* Tag selector to select the 'body' element */
 body {
   background: #00b3e6
+  /* Your code here! */
+}
+
+/* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
+div {
   width: 700px
   margin: auto
   font-family: "Helvetica Neue"
@@ -9,13 +14,9 @@ body {
   /* Your code here! */
 }
 
-/* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-div {
-  /* Your code here! */
-}
-
 /* ID selector to select the element with id 'main-header' */
 #main-header {
+  font-size: 22px
   /* Your code here! */
   color:red;
 }
