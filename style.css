@@ -1,6 +1,6 @@
 /* Tag selector to select the 'body' element */
 body {
-  background: #00b3e6
+  background: #00b3e6;
   /* Your code here! */
 }
 
@@ -10,7 +10,7 @@ div {
   margin: auto;
   font-family: "Helvetica Neue";
   background: white;
-  padding: 30px
+  padding: 30px;
   /* Your code here! */
 }
 
